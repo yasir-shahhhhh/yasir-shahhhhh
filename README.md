@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 **Welcome to my quantum realm where...**  
-<span id="typing-text" style="animation: typing 8s steps(80, end), erasing 8s steps(80, end) 8s infinite; overflow: hidden; white-space: nowrap; border-right: 3px solid; font-family: 'Courier New', monospace; color: #58A6FF;"></span>
+<span id="typing-text">Building quantum AI systems that reshape reality...</span>
 
 <style>
 @keyframes typing {
@@ -27,99 +27,33 @@
 }
 
 #typing-text {
-  animation: typing 4s steps(80, end), erasing 2s steps(80, end) 6s infinite;
+  animation: typing 4s steps(40, end), erasing 2s steps(40, end) 6s infinite;
   border-right: 3px solid #58A6FF;
   white-space: nowrap;
   overflow: hidden;
   display: inline-block;
+  font-family: 'Courier New', monospace;
+  color: #58A6FF;
 }
 
 #typing-text::before {
   content: "Building quantum AI systems that reshape reality...";
-  animation: content-change 8s infinite;
+  animation: content-change 12s infinite;
 }
 
 @keyframes content-change {
   0% { content: "Building quantum AI systems that reshape reality..."; }
-  1.25% { content: "Creating autonomous robots that think for themselves..."; }
-  2.5% { content: "Teaching the world that age is just a number..."; }
-  3.75% { content: "Transforming Kashmir into a tech innovation hub..."; }
-  5% { content: "From Kashmir to California, we're connected by code..."; }
-  6.25% { content: "Where dreams become algorithms and algorithms become reality..."; }
-  7.5% { content: "Building the future one quantum bit at a time..."; }
-  8.75% { content: "Turning constraints into features and limitations into innovations..."; }
-  10% { content: "Where young minds lead the technological revolution..."; }
-  11.25% { content: "Creating AI that understands not just processes but dreams..."; }
-  12.5% { content: "Building robots that see the world through quantum eyes..."; }
-  13.75% { content: "Where every line of code is a step towards tomorrow..."; }
-  15% { content: "Transforming education through interactive AI experiences..."; }
-  16.25% { content: "Building bridges between human creativity and machine intelligence..."; }
-  17.5% { content: "Where innovation flows like data through fiber optics..."; }
-  18.75% { content: "Creating systems that learn, adapt, and evolve with us..."; }
-  20% { content: "From the valleys of Kashmir to the clouds of the internet..."; }
-  21.25% { content: "Building technology that speaks every language and understands every culture..."; }
-  22.5% { content: "Where young developers become tomorrow's tech leaders..."; }
-  23.75% { content: "Creating AI assistants that don't just respond but anticipate..."; }
-  25% { content: "Building robots that navigate the world with human-like intuition..."; }
-  26.25% { content: "Where every problem is just a solution waiting to be coded..."; }
-  27.5% { content: "Transforming classrooms into laboratories of innovation..."; }
-  28.75% { content: "Building communities where knowledge flows freely and endlessly..."; }
-  30% { content: "From local innovations to global technological revolutions..."; }
-  31.25% { content: "Creating interfaces that feel like extensions of human thought..."; }
-  32.5% { content: "Where teenagers build systems that adults can't comprehend..."; }
-  33.75% { content: "Building AI that doesn't just compute but truly understands..."; }
-  35% { content: "Transforming the impossible into the inevitable through code..."; }
-  36.25% { content: "Where passion fuels innovation and innovation fuels progress..."; }
-  37.5% { content: "Creating educational platforms that adapt to every learning style..."; }
-  38.75% { content: "Building communities that span continents and cultures..."; }
-  40% { content: "From Raspberry Pi dreams to quantum reality..."; }
-  41.25% { content: "Creating systems that learn from every interaction and improve..."; }
-  42.5% { content: "Where young minds solve problems that stump experienced engineers..."; }
-  43.75% { content: "Building AI that doesn't just assist but collaborates and creates..."; }
-  45% { content: "Transforming education from memorization to exploration..."; }
-  46.25% { content: "Where every line of code tells a story of innovation..."; }
-  47.5% { content: "Creating robots that don't just follow commands but understand intent..."; }
-  48.75% { content: "Building communities where everyone teaches and everyone learns..."; }
-  50% { content: "From local workshops to global technological movements..."; }
-  51.25% { content: "Creating interfaces that respond to thoughts before they're spoken..."; }
-  52.5% { content: "Where age is just a number and innovation is ageless..."; }
-  53.75% { content: "Building AI that doesn't just process data but finds meaning..."; }
-  55% { content: "Transforming challenges into opportunities and opportunities into innovations..."; }
-  56.25% { content: "Where curiosity drives development and development drives curiosity..."; }
-  57.5% { content: "Creating educational experiences that inspire lifelong learning..."; }
-  58.75% { content: "Building communities that celebrate every breakthrough, big or small..."; }
-  60% { content: "From garage projects to global technological solutions..."; }
-  61.25% { content: "Creating systems that learn from failures and grow stronger..."; }
-  62.5% { content: "Where young innovators lead the charge into tomorrow..."; }
-  63.75% { content: "Building AI that doesn't just answer questions but asks better ones..."; }
-  65% { content: "Transforming education from passive learning to active creation..."; }
-  66.25% { content: "Where every contribution matters and every voice is heard..."; }
-  67.5% { content: "Creating robots that adapt to environments and learn from experience..."; }
-  68.75% { content: "Building communities that span time zones and transcend boundaries..."; }
-  70% { content: "From local inspiration to global technological transformation..."; }
-  71.25% { content: "Creating interfaces that feel more natural than breathing..."; }
-  72.5% { content: "Where innovation isn't just encouraged but celebrated and nurtured..."; }
-  73.75% { content: "Building AI that doesn't just simulate intelligence but embodies wisdom..."; }
-  75% { content: "Transforming education from standardized to personalized..."; }
-  76.25% { content: "Where dreams aren't just imagined but engineered into reality..."; }
-  77.5% { content: "Creating systems that evolve with us and help us evolve..."; }
-  78.75% { content: "Building communities where the next big idea comes from anywhere..."; }
-  80% { content: "From Kashmir's valleys to the world's technological peaks..."; }
-  81.25% { content: "Creating AI that doesn't just change technology but changes lives..."; }
-  82.5% { content: "Where young minds build the future that adults can only imagine..."; }
-  83.75% { content: "Building quantum systems that make the impossible possible..."; }
-  85% { content: "Transforming education from theory to practice and practice to mastery..."; }
-  86.25% { content: "Where innovation flows like rivers of code through digital landscapes..."; }
-  87.5% { content: "Creating robots that don't just perform tasks but understand purpose..."; }
-  88.75% { content: "Building communities where collaboration creates exponential growth..."; }
-  90% { content: "From personal projects to global technological revolutions..."; }
-  91.25% { content: "Creating interfaces that respond to needs before they're expressed..."; }
-  92.5% { content: "Where passion meets purpose and purpose meets progress..."; }
-  93.75% { content: "Building AI that doesn't just assist but elevates human potential..."; }
-  95% { content: "Transforming education from consumption to creation and innovation..."; }
-  96.25% { content: "Where every line of code is a brushstroke on the canvas of tomorrow..."; }
-  97.5% { content: "Creating systems that learn from every human interaction and improve..."; }
-  98.75% { content: "Building communities where diversity fuels innovation and innovation fuels unity..."; }
+  8.33% { content: "Creating autonomous robots that think for themselves..."; }
+  16.66% { content: "Teaching the world that age is just a number..."; }
+  25% { content: "Transforming Kashmir into a tech innovation hub..."; }
+  33.33% { content: "From Kashmir to California, we're connected by code..."; }
+  41.66% { content: "Where dreams become algorithms and algorithms become reality..."; }
+  50% { content: "Building the future one quantum bit at a time..."; }
+  58.33% { content: "Turning constraints into features and limitations into innovations..."; }
+  66.66% { content: "Where young minds lead the technological revolution..."; }
+  75% { content: "Creating AI that understands not just processes but dreams..."; }
+  83.33% { content: "Building robots that see the world through quantum eyes..."; }
+  91.66% { content: "Where every line of code is a step towards tomorrow..."; }
   100% { content: "Building quantum AI systems that reshape reality..."; }
 }
 </style>
@@ -316,10 +250,6 @@ We believe technology should be accessible to everyone, everywhere, and that tog
 ### 🔝 **Top Contributions**
 ![](https://github-contributor-stats.vercel.app/api?username=yasir-shahhhhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🎯 **Achievement Badges**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasir-shahhhhh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
 
 ### 🌈 **Productivity Metrics**
 <div align="center">
