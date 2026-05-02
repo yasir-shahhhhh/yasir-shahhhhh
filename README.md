@@ -8,9 +8,13 @@
 ---
 
 ### 🌟 **Welcome to my quantum realm where...**  
-<span id="typing-text" style="animation: typing 8s steps(80, end), erasing 8s steps(80, end) 8s infinite; overflow: hidden; white-space: nowrap; border-right: 3px solid; font-family: 'Courier New', monospace; color: #58A6FF;"></span>
+<span id="typing-text" style="animation: typing 4s steps(80, end), erasing 2s steps(80, end) 6s infinite; border-right: 3px solid #58A6FF; white-space: nowrap; overflow: hidden; display: inline-block; font-family: 'Courier New', monospace; color: #58A6FF;"></span>
 
-<style>
+<!-- Hidden CSS for typing animation -->
+<details>
+<summary>🎨 Animation CSS (Click to expand)</summary>
+
+```css
 @keyframes typing {
   from { width: 0; }
   to { width: 100%; }
@@ -122,7 +126,9 @@
   98.75% { content: "Building communities where diversity fuels innovation and innovation fuels unity..."; }
   100% { content: "Building quantum AI systems that reshape reality..."; }
 }
-</style>
+```
+
+</details>
 
 ---
 
@@ -217,9 +223,13 @@
 <div align="center">
 
 ### 🌟 **Join the Visionary Circle Family**
-<span id="community-typing" style="animation: typing 6s steps(80, end), erasing 3s steps(80, end) 9s infinite; overflow: hidden; white-space: nowrap; border-right: 3px solid; font-family: 'Courier New', monospace; color: #FF6B6B;"></span>
+<span id="community-typing" style="animation: typing 6s steps(80, end), erasing 3s steps(80, end) 9s infinite; border-right: 3px solid #FF6B6B; white-space: nowrap; overflow: hidden; display: inline-block; font-family: 'Courier New', monospace; color: #FF6B6B;"></span>
 
-<style>
+<!-- Hidden CSS for community typing animation -->
+<details>
+<summary>🎨 Community Animation CSS (Click to expand)</summary>
+
+```css
 #community-typing {
   animation: typing 6s steps(80, end), erasing 3s steps(80, end) 9s infinite;
   border-right: 3px solid #FF6B6B;
@@ -241,7 +251,9 @@
   80% { content: "From Kashmir to California, we're connected by code..."; }
   100% { content: "We're not just a community - we're a quantum family of innovators..."; }
 }
-</style>
+```
+
+</details>
 
 We believe technology should be accessible to everyone, everywhere, and that together we can push the boundaries of what's possible!
 
@@ -316,10 +328,6 @@ We believe technology should be accessible to everyone, everywhere, and that tog
 ### 🔝 **Top Contributions**
 ![](https://github-contributor-stats.vercel.app/api?username=yasir-shahhhhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🎯 **Achievement Badges**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasir-shahhhhh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
 
 ### 🌈 **Productivity Metrics**
 <div align="center">
@@ -423,3 +431,5 @@ Whether you're a seasoned developer, a curious beginner, or someone who just lov
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
