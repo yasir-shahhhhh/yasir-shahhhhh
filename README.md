@@ -8,127 +8,9 @@
 ---
 
 ### 🌟 **Welcome to my quantum realm where...**  
-<span id="typing-text" style="animation: typing 4s steps(80, end), erasing 2s steps(80, end) 6s infinite; border-right: 3px solid #58A6FF; white-space: nowrap; overflow: hidden; display: inline-block; font-family: 'Courier New', monospace; color: #58A6FF;"></span>
-
-<!-- Hidden CSS for typing animation -->
-<details>
-<summary>🎨 Animation CSS (Click to expand)</summary>
-
-```css
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-
-@keyframes erasing {
-  from { width: 100%; }
-  to { width: 0; }
-}
-
-@keyframes blink {
-  0%, 50% { border-color: #58A6FF; }
-  51%, 100% { border-color: transparent; }
-}
-
-#typing-text {
-  animation: typing 4s steps(80, end), erasing 2s steps(80, end) 6s infinite;
-  border-right: 3px solid #58A6FF;
-  white-space: nowrap;
-  overflow: hidden;
-  display: inline-block;
-}
-
-#typing-text::before {
-  content: "Building quantum AI systems that reshape reality...";
-  animation: content-change 8s infinite;
-}
-
-@keyframes content-change {
-  0% { content: "Building quantum AI systems that reshape reality..."; }
-  1.25% { content: "Creating autonomous robots that think for themselves..."; }
-  2.5% { content: "Teaching the world that age is just a number..."; }
-  3.75% { content: "Transforming Kashmir into a tech innovation hub..."; }
-  5% { content: "From Kashmir to California, we're connected by code..."; }
-  6.25% { content: "Where dreams become algorithms and algorithms become reality..."; }
-  7.5% { content: "Building the future one quantum bit at a time..."; }
-  8.75% { content: "Turning constraints into features and limitations into innovations..."; }
-  10% { content: "Where young minds lead the technological revolution..."; }
-  11.25% { content: "Creating AI that understands not just processes but dreams..."; }
-  12.5% { content: "Building robots that see the world through quantum eyes..."; }
-  13.75% { content: "Where every line of code is a step towards tomorrow..."; }
-  15% { content: "Transforming education through interactive AI experiences..."; }
-  16.25% { content: "Building bridges between human creativity and machine intelligence..."; }
-  17.5% { content: "Where innovation flows like data through fiber optics..."; }
-  18.75% { content: "Creating systems that learn, adapt, and evolve with us..."; }
-  20% { content: "From the valleys of Kashmir to the clouds of the internet..."; }
-  21.25% { content: "Building technology that speaks every language and understands every culture..."; }
-  22.5% { content: "Where young developers become tomorrow's tech leaders..."; }
-  23.75% { content: "Creating AI assistants that don't just respond but anticipate..."; }
-  25% { content: "Building robots that navigate the world with human-like intuition..."; }
-  26.25% { content: "Where every problem is just a solution waiting to be coded..."; }
-  27.5% { content: "Transforming classrooms into laboratories of innovation..."; }
-  28.75% { content: "Building communities where knowledge flows freely and endlessly..."; }
-  30% { content: "From local innovations to global technological revolutions..."; }
-  31.25% { content: "Creating interfaces that feel like extensions of human thought..."; }
-  32.5% { content: "Where teenagers build systems that adults can't comprehend..."; }
-  33.75% { content: "Building AI that doesn't just compute but truly understands..."; }
-  35% { content: "Transforming the impossible into the inevitable through code..."; }
-  36.25% { content: "Where passion fuels innovation and innovation fuels progress..."; }
-  37.5% { content: "Creating educational platforms that adapt to every learning style..."; }
-  38.75% { content: "Building communities that span continents and cultures..."; }
-  40% { content: "From Raspberry Pi dreams to quantum reality..."; }
-  41.25% { content: "Creating systems that learn from every interaction and improve..."; }
-  42.5% { content: "Where young minds solve problems that stump experienced engineers..."; }
-  43.75% { content: "Building AI that doesn't just assist but collaborates and creates..."; }
-  45% { content: "Transforming education from memorization to exploration..."; }
-  46.25% { content: "Where every line of code tells a story of innovation..."; }
-  47.5% { content: "Creating robots that don't just follow commands but understand intent..."; }
-  48.75% { content: "Building communities where everyone teaches and everyone learns..."; }
-  50% { content: "From local workshops to global technological movements..."; }
-  51.25% { content: "Creating interfaces that respond to thoughts before they're spoken..."; }
-  52.5% { content: "Where age is just a number and innovation is ageless..."; }
-  53.75% { content: "Building AI that doesn't just process data but finds meaning..."; }
-  55% { content: "Transforming challenges into opportunities and opportunities into innovations..."; }
-  56.25% { content: "Where curiosity drives development and development drives curiosity..."; }
-  57.5% { content: "Creating educational experiences that inspire lifelong learning..."; }
-  58.75% { content: "Building communities that celebrate every breakthrough, big or small..."; }
-  60% { content: "From garage projects to global technological solutions..."; }
-  61.25% { content: "Creating systems that learn from failures and grow stronger..."; }
-  62.5% { content: "Where young innovators lead the charge into tomorrow..."; }
-  63.75% { content: "Building AI that doesn't just answer questions but asks better ones..."; }
-  65% { content: "Transforming education from passive learning to active creation..."; }
-  66.25% { content: "Where every contribution matters and every voice is heard..."; }
-  67.5% { content: "Creating robots that adapt to environments and learn from experience..."; }
-  68.75% { content: "Building communities that span time zones and transcend boundaries..."; }
-  70% { content: "From local inspiration to global technological transformation..."; }
-  71.25% { content: "Creating interfaces that feel more natural than breathing..."; }
-  72.5% { content: "Where innovation isn't just encouraged but celebrated and nurtured..."; }
-  73.75% { content: "Building AI that doesn't just simulate intelligence but embodies wisdom..."; }
-  75% { content: "Transforming education from standardized to personalized..."; }
-  76.25% { content: "Where dreams aren't just imagined but engineered into reality..."; }
-  77.5% { content: "Creating systems that evolve with us and help us evolve..."; }
-  78.75% { content: "Building communities where the next big idea comes from anywhere..."; }
-  80% { content: "From Kashmir's valleys to the world's technological peaks..."; }
-  81.25% { content: "Creating AI that doesn't just change technology but changes lives..."; }
-  82.5% { content: "Where young minds build the future that adults can only imagine..."; }
-  83.75% { content: "Building quantum systems that make the impossible possible..."; }
-  85% { content: "Transforming education from theory to practice and practice to mastery..."; }
-  86.25% { content: "Where innovation flows like rivers of code through digital landscapes..."; }
-  87.5% { content: "Creating robots that don't just perform tasks but understand purpose..."; }
-  88.75% { content: "Building communities where collaboration creates exponential growth..."; }
-  90% { content: "From personal projects to global technological revolutions..."; }
-  91.25% { content: "Creating interfaces that respond to needs before they're expressed..."; }
-  92.5% { content: "Where passion meets purpose and purpose meets progress..."; }
-  93.75% { content: "Building AI that doesn't just assist but elevates human potential..."; }
-  95% { content: "Transforming education from consumption to creation and innovation..."; }
-  96.25% { content: "Where every line of code is a brushstroke on the canvas of tomorrow..."; }
-  97.5% { content: "Creating systems that learn from every human interaction and improve..."; }
-  98.75% { content: "Building communities where diversity fuels innovation and innovation fuels unity..."; }
-  100% { content: "Building quantum AI systems that reshape reality..."; }
-}
-```
-
-</details>
+<div id="typing-container">
+  <span id="typing-text"></span><span class="cursor">|</span>
+</div>
 
 ---
 
@@ -223,37 +105,9 @@
 <div align="center">
 
 ### 🌟 **Join the Visionary Circle Family**
-<span id="community-typing" style="animation: typing 6s steps(80, end), erasing 3s steps(80, end) 9s infinite; border-right: 3px solid #FF6B6B; white-space: nowrap; overflow: hidden; display: inline-block; font-family: 'Courier New', monospace; color: #FF6B6B;"></span>
-
-<!-- Hidden CSS for community typing animation -->
-<details>
-<summary>🎨 Community Animation CSS (Click to expand)</summary>
-
-```css
-#community-typing {
-  animation: typing 6s steps(80, end), erasing 3s steps(80, end) 9s infinite;
-  border-right: 3px solid #FF6B6B;
-  white-space: nowrap;
-  overflow: hidden;
-  display: inline-block;
-}
-
-#community-typing::before {
-  content: "We're not just a community - we're a quantum family of innovators...";
-  animation: community-content 12s infinite;
-}
-
-@keyframes community-content {
-  0% { content: "We're not just a community - we're a quantum family of innovators..."; }
-  20% { content: "Where dreamers become builders and builders become legends..."; }
-  40% { content: "A space where age doesn't matter, passion does..."; }
-  60% { content: "Together we're pushing the boundaries of what's possible..."; }
-  80% { content: "From Kashmir to California, we're connected by code..."; }
-  100% { content: "We're not just a community - we're a quantum family of innovators..."; }
-}
-```
-
-</details>
+<div id="community-typing-container">
+  <span id="community-typing-text"></span><span class="community-cursor">|</span>
+</div>
 
 We believe technology should be accessible to everyone, everywhere, and that together we can push the boundaries of what's possible!
 
@@ -327,7 +181,6 @@ We believe technology should be accessible to everyone, everywhere, and that tog
 
 ### 🔝 **Top Contributions**
 ![](https://github-contributor-stats.vercel.app/api?username=yasir-shahhhhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ### 🌈 **Productivity Metrics**
 <div align="center">
@@ -430,6 +283,192 @@ Whether you're a seasoned developer, a curious beginner, or someone who just lov
 
 ---
 
+<!-- Typing Animation Script -->
+<script>
+// Main typing animation
+const typingTexts = [
+  "Building quantum AI systems that reshape reality...",
+  "Creating autonomous robots that think for themselves...",
+  "Teaching the world that age is just a number...",
+  "Transforming Kashmir into a tech innovation hub...",
+  "From Kashmir to California, we're connected by code...",
+  "Where dreams become algorithms and algorithms become reality...",
+  "Building the future one quantum bit at a time...",
+  "Turning constraints into features and limitations into innovations...",
+  "Where young minds lead the technological revolution...",
+  "Creating AI that understands not just processes but dreams...",
+  "Building robots that see the world through quantum eyes...",
+  "Where every line of code is a step towards tomorrow...",
+  "Transforming education through interactive AI experiences...",
+  "Building bridges between human creativity and machine intelligence...",
+  "Where innovation flows like data through fiber optics...",
+  "Creating systems that learn, adapt, and evolve with us...",
+  "From the valleys of Kashmir to the clouds of the internet...",
+  "Building technology that speaks every language and understands every culture...",
+  "Where young developers become tomorrow's tech leaders...",
+  "Creating AI assistants that don't just respond but anticipate...",
+  "Building robots that navigate the world with human-like intuition...",
+  "Where every problem is just a solution waiting to be coded...",
+  "Transforming classrooms into laboratories of innovation...",
+  "Building communities where knowledge flows freely and endlessly...",
+  "From local innovations to global technological revolutions...",
+  "Creating interfaces that feel like extensions of human thought...",
+  "Where teenagers build systems that adults can't comprehend...",
+  "Building AI that doesn't just compute but truly understands...",
+  "Transforming the impossible into the inevitable through code...",
+  "Where passion fuels innovation and innovation fuels progress...",
+  "Creating educational platforms that adapt to every learning style...",
+  "Building communities that span continents and cultures...",
+  "From Raspberry Pi dreams to quantum reality...",
+  "Creating systems that learn from every interaction and improve...",
+  "Where young minds solve problems that stump experienced engineers...",
+  "Building AI that doesn't just assist but collaborates and creates...",
+  "Transforming education from memorization to exploration...",
+  "Where every line of code tells a story of innovation...",
+  "Creating robots that don't just follow commands but understand intent...",
+  "Building communities where everyone teaches and everyone learns...",
+  "From local workshops to global technological movements...",
+  "Creating interfaces that respond to thoughts before they're spoken...",
+  "Where age is just a number and innovation is ageless...",
+  "Building AI that doesn't just process data but finds meaning...",
+  "Transforming challenges into opportunities and opportunities into innovations...",
+  "Where curiosity drives development and development drives curiosity...",
+  "Creating educational experiences that inspire lifelong learning...",
+  "Building communities that celebrate every breakthrough, big or small...",
+  "From garage projects to global technological solutions...",
+  "Creating systems that learn from failures and grow stronger...",
+  "Where young innovators lead the charge into tomorrow...",
+  "Building AI that doesn't just answer questions but asks better ones...",
+  "Transforming education from passive learning to active creation...",
+  "Where every contribution matters and every voice is heard...",
+  "Creating robots that adapt to environments and learn from experience...",
+  "Building communities that span time zones and transcend boundaries...",
+  "From local inspiration to global technological transformation...",
+  "Creating interfaces that feel more natural than breathing...",
+  "Where innovation isn't just encouraged but celebrated and nurtured...",
+  "Building AI that doesn't just simulate intelligence but embodies wisdom...",
+  "Transforming education from standardized to personalized...",
+  "Where dreams aren't just imagined but engineered into reality...",
+  "Creating systems that evolve with us and help us evolve...",
+  "Building communities where the next big idea comes from anywhere...",
+  "From Kashmir's valleys to the world's technological peaks...",
+  "Creating AI that doesn't just change technology but changes lives...",
+  "Where young minds build the future that adults can only imagine...",
+  "Building quantum systems that make the impossible possible...",
+  "Transforming education from theory to practice and practice to mastery...",
+  "Where innovation flows like rivers of code through digital landscapes...",
+  "Creating robots that don't just perform tasks but understand purpose...",
+  "Building communities where collaboration creates exponential growth...",
+  "From personal projects to global technological revolutions...",
+  "Creating interfaces that respond to needs before they're expressed...",
+  "Where passion meets purpose and purpose meets progress...",
+  "Building AI that doesn't just assist but elevates human potential...",
+  "Transforming education from consumption to creation and innovation...",
+  "Where every line of code is a brushstroke on the canvas of tomorrow...",
+  "Creating systems that learn from every human interaction and improve...",
+  "Building communities where diversity fuels innovation and innovation fuels unity..."
+];
+
+let textIndex = 0;
+let charIndex = 0;
+let isDeleting = false;
+const typingElement = document.getElementById('typing-text');
+const cursor = document.querySelector('.cursor');
+
+function typeText() {
+  if (!typingElement) return;
+  
+  const currentText = typingTexts[textIndex];
+  
+  if (isDeleting) {
+    typingElement.textContent = currentText.substring(0, charIndex - 1);
+    charIndex--;
+  } else {
+    typingElement.textContent = currentText.substring(0, charIndex + 1);
+    charIndex++;
+  }
+  
+  if (!isDeleting && charIndex === currentText.length) {
+    isDeleting = true;
+    setTimeout(typeText, 2000); // Pause at end
+  } else if (isDeleting && charIndex === 0) {
+    isDeleting = false;
+    textIndex = (textIndex + 1) % typingTexts.length;
+    setTimeout(typeText, 500); // Pause before next
+  } else {
+    setTimeout(typeText, isDeleting ? 50 : 100);
+  }
+}
+
+// Community typing animation
+const communityTexts = [
+  "We're not just a community - we're a quantum family of innovators...",
+  "Where dreamers become builders and builders become legends...",
+  "A space where age doesn't matter, passion does...",
+  "Together we're pushing the boundaries of what's possible...",
+  "From Kashmir to California, we're connected by code..."
+];
+
+let communityTextIndex = 0;
+let communityCharIndex = 0;
+let isCommunityDeleting = false;
+const communityTypingElement = document.getElementById('community-typing-text');
+const communityCursor = document.querySelector('.community-cursor');
+
+function typeCommunityText() {
+  if (!communityTypingElement) return;
+  
+  const currentText = communityTexts[communityTextIndex];
+  
+  if (isCommunityDeleting) {
+    communityTypingElement.textContent = currentText.substring(0, communityCharIndex - 1);
+    communityCharIndex--;
+  } else {
+    communityTypingElement.textContent = currentText.substring(0, communityCharIndex + 1);
+    communityCharIndex++;
+  }
+  
+  if (!isCommunityDeleting && communityCharIndex === currentText.length) {
+    isCommunityDeleting = true;
+    setTimeout(typeCommunityText, 3000); // Pause at end
+  } else if (isCommunityDeleting && communityCharIndex === 0) {
+    isCommunityDeleting = false;
+    communityTextIndex = (communityTextIndex + 1) % communityTexts.length;
+    setTimeout(typeCommunityText, 500); // Pause before next
+  } else {
+    setTimeout(typeCommunityText, isCommunityDeleting ? 50 : 100);
+  }
+}
+
+// Start animations when page loads
+document.addEventListener('DOMContentLoaded', function() {
+  setTimeout(typeText, 1000);
+  setTimeout(typeCommunityText, 2000);
+});
+</script>
+
+<!-- CSS for typing animations -->
+<style>
+#typing-container, #community-typing-container {
+  font-family: 'Courier New', monospace;
+  font-size: 1.1em;
+  color: #58A6FF;
+  margin: 10px 0;
+}
+
+#community-typing-container {
+  color: #FF6B6B;
+}
+
+.cursor, .community-cursor {
+  animation: blink 1s infinite;
+  font-weight: bold;
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+</style>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
