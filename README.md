@@ -68,9 +68,9 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Activity**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasir-shahhhhh&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&count_private=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yasir-shahhhhh&theme=dark&hide_border=true)
 
 ---
 
