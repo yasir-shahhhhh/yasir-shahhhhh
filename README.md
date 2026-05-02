@@ -7,7 +7,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&vCenter=true&width=600&lines=🤖+Building+AI+systems+that+reshape+reality;🚗+Creating+robots+that+think+for+themselves;📚+Making+complex+tech+simple+for+everyone;🌍+From+Kashmir+to+California,+connected+by+code)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Building+AI+systems+that+reshape+reality;Visionary+Circle+aims+to+democratize+technology+globally;Everyone+is+an+admin+in+our+decentralized+community+structure;We+collaborate,+innovate,+and+push+boundaries+together;Creating+robots+that+think+for+themselves;Making+complex+tech+simple+for+everyone;From+Kashmir+to+California,+connected+by+code)
 
 ---
 
@@ -17,7 +17,7 @@
 🚗 **MARS Robot** - Autonomous robot with AI vision  
 ⚡ **YASIR 2.0** - Personal AI chat system  
 📚 **Educational Platform** - Free tech courses  
-⭐ **Visionary Circle** - Global tech community (1000+ members)
+⭐ **Visionary Circle** - Global tech community where cool people collaborate, innovate, and grow together
 
 ---
 
