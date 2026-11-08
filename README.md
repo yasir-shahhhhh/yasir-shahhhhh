@@ -1,6 +1,6 @@
 # Hey, I'm Yasir 👋
 
-14-year-old developer and robotics enthusiast from Kashmir, India.
+Developer and robotics builder from Kashmir, India.
 
 I love writing software, tinkering with hardware, and building things from scratch. Most of my time is spent learning computer science, experimenting with embedded systems, and building practical projects.
 
