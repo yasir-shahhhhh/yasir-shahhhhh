@@ -13,6 +13,7 @@
 
 ## 🌟 **Current Projects**
 
+🛡️ **[prompt-guard](https://github.com/yasir-shahhhhh/prompt-guard)** - High-speed zero-dependency Python utility for LLM prompt sanitization, injection boundary checks, and token estimation  
 🤖 **JARVIS 3.5** - Advanced AI assistant with voice capabilities  
 🚗 **MARS Robot** - Autonomous robot with AI vision  
 ⚡ **YASIR 2.0** - Personal AI chat system  
@@ -68,9 +69,18 @@
 
 ---
 
-## 📊 **GitHub Activity**
+## 📊 **GitHub Activity & Analytics**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yasir-shahhhhh&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasir-shahhhhh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-shahhhhh&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=yasir-shahhhhh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
