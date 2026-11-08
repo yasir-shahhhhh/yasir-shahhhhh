@@ -53,7 +53,6 @@ I am a 14-year-old self-taught engineer, robotics builder, and innovator from th
 | **JARVIS 3.5 (AIOS)** | `Agentic AIOS` | The first Agent-Based AI Operating System: sandboxed environment, autonomous headless browser automation, real-time computer vision HUD, gesture tracking, and ultra-fast Groq LLM inferencing. |
 | **MARS v2.0 Rover** | `Autonomous Robotics` | **Modern Autonomous Robotic System**: Hybrid Raspberry Pi 4 + Arduino Uno R3 compute architecture, dual obstacle avoidance, IR flame detection, DHT22/MQ2 atmospheric telemetry. |
 | **[Rufs AI](https://github.com/yasir-shahhhhh/rufs)** | `Physical AI Entity` | Next-generation interactive artificial intelligence entity blending live voice interaction, real-time vision parsing, and adaptive physical entity behavior. |
-| **[OpenClaw](https://github.com/yasir-shahhhhh/openclaw)** | `AI Assistant` | Multi-platform personal AI assistant running across all major operating systems. |
 | **Whiteboard AI** | `Generative Canvas` | Real-time intelligent collaborative canvas for visual ideation and system architecture. |
 
 </div>
