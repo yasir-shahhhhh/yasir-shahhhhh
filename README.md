@@ -2,7 +2,17 @@
 
 Developer and robotics builder from Kashmir, India.
 
-I love writing software, tinkering with hardware, and building things from scratch. Most of my time is spent learning computer science, experimenting with embedded systems, and building practical projects.
+---
+
+### Bio
+I am a hands-on builder with a genuine curiosity for how systems work from the ground up. My path into technology started with tinkering with hardware circuits and writing code to bring them to life, which naturally grew into developing robotics projects, embedded systems, and practical software tools.
+
+What drives me:
+- **Hardware & Embedded Systems:** Designing circuits, working with sensors, and building physical robotics projects like autonomous rovers.
+- **Software Engineering:** Writing clean, efficient code in Python, C++, and JavaScript/TypeScript to build reliable tools and applications.
+- **Community & Education:** Supporting youth learning and book-sharing through initiatives like Ganderbal Reads, and collaborating with fellow builders.
+
+I believe in building from first principles, staying humble, and improving steadily through direct experimentation.
 
 ---
 
