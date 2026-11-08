@@ -12,7 +12,6 @@ I love writing software, tinkering with hardware, and building things from scrat
 - 📖 **Founder & Community Director** at Ganderbal Reads — a local youth initiative encouraging reading, book-sharing, and education across Kashmir
 - 🚀 **Innovators Circle Member** at School2Startup
 - 🎓 **AI Adoption Lead** at Proteios Education
-- 📚 **Author** — published my debut book on my journey and robotics experiments (available on Amazon & Flipkart)
 
 ---
 
