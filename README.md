@@ -13,7 +13,6 @@
 
 ## 🌟 **Current Projects**
 
-🛡️ **[prompt-guard](https://github.com/yasir-shahhhhh/prompt-guard)** - High-speed zero-dependency Python utility for LLM prompt sanitization, injection boundary checks, and token estimation  
 🤖 **JARVIS 3.5** - Advanced AI assistant with voice capabilities  
 🚗 **MARS Robot** - Autonomous robot with AI vision  
 ⚡ **YASIR 2.0** - Personal AI chat system  
