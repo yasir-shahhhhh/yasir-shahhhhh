@@ -1,31 +1,33 @@
 # Hey, I'm Yasir 👋
 
-14-year-old student, developer, and robotics enthusiast from Kashmir, India.
+14-year-old developer and robotics enthusiast from Kashmir, India.
 
-I love writing software, tinkering with hardware, and building things from scratch. Most of my time is spent learning computer science, experimenting with microcontrollers, and working on projects with my friends.
+I love writing software, tinkering with hardware, and building things from scratch. Most of my time is spent learning computer science, experimenting with embedded systems, and building practical projects.
 
 ---
 
-### What I'm Working On
-- 🏢 Building **MAEVON** & **Nexlyra Engineering Works**
-- 📖 Running **Ganderbal Reads** — a local community initiative encouraging reading, book-sharing, and learning among students in Kashmir
-- 🤖 Building robotics and AI projects (like **MARS Rover** and **JARVIS**)
-- 📚 Learning more about systems, embedded electronics, and backend engineering every day
+### Roles & Ventures
+- 🏢 **Founder & CEO** at [MAEVON](https://www.linkedin.com/company/maevon/) — working on innovation, strategic planning, and venture development
+- ⚙️ **Co-Founder & COO** at [Nexlyra Engineering Works](https://nexlyraengineeringworks.in) — building tech products, software systems, and practical projects
+- 📖 **Founder & Community Director** at Ganderbal Reads — a local youth initiative encouraging reading, book-sharing, and education across Kashmir
+- 🚀 **Innovators Circle Member** at School2Startup
+- 🎓 **AI Adoption Lead** at Proteios Education
+- 📚 **Author** — published my debut book on my journey and robotics experiments (available on Amazon & Flipkart)
 
 ---
 
 ### Projects
-- **MARS Rover** — An autonomous rover built with a Raspberry Pi, Arduino Uno, and environmental sensors
+- **MARS Rover** — An autonomous rover built with Raspberry Pi, Arduino, and environmental telemetry sensors
 - **JARVIS** — A voice and vision desktop assistant built with Python
 - **Rufs** — An experimental interactive assistant project
-- **Whiteboard AI** — A simple collaborative canvas for visual notes
+- **Whiteboard AI** — A collaborative canvas for visual notes and diagrams
 
 ---
 
 ### Tools & Technologies
 - **Languages:** Python, C++, C, JavaScript, TypeScript
-- **Hardware:** Raspberry Pi, Arduino, ESP32, sensors & microcontrollers
-- **Tools:** Git, Linux, React, Node.js
+- **Hardware & Embedded:** Raspberry Pi, Arduino, ESP32, sensors & microcontrollers
+- **Tools & Frameworks:** Git, Linux, React, Node.js
 
 ---
 
