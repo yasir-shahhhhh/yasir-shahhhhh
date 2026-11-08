@@ -30,9 +30,12 @@ I love writing software, tinkering with hardware, and building things from scrat
 
 ---
 
-### Connect
+### Connect & Community
 - **LinkedIn:** [Mohammad Yasir Shah](https://www.linkedin.com/in/mohammad-yasir-shah-inventor-yasir-991431367)
 - **Website:** [myintroductionn.netlify.app](https://myintroductionn.netlify.app/)
+- **ORCID:** [0009-0007-3529-9160](https://orcid.org/0009-0007-3529-9160)
+- **Devpost:** [yasir-shahhhhh](https://devpost.com/yasir-shahhhhh)
+- **Visionary Circle:** [WhatsApp Channel](https://whatsapp.com/channel/0029VbC9PyA9sBI8US3QUo23) • [Telegram Community](https://t.me/+D3qVBfU4QYk1ZmY1)
 - **YouTube:** [@Inventor_Yasir](https://youtube.com/@Inventor_Yasir)
 - **Instagram:** [@inventoryasir](https://www.instagram.com/inventoryasir/)
 - **Email:** developeryasir39@gmail.com
